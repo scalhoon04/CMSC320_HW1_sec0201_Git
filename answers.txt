@@ -9,3 +9,7 @@ Answer: Data Science could be applied to finance. Different sectors of the stock
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is a non-destructibe operation that ties the histories of two branches together without changing them. Rebasing rewrites the project history to make it linear without any forks by creating brand new commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to building a completed project and getting to know my teammates better!
